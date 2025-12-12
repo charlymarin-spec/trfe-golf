@@ -1,2 +1,3 @@
-# trfe-golf
-Trofeos de golf a medida, para eventos de calidad
+git branch -M main
+git push -u origin main
+
